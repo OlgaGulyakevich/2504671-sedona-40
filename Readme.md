@@ -1,40 +1,34 @@
-# Личный проект «Седона»
+# Sedona: Учебный проект
 
-* Студент: [Olga Gulyakevich](https://up.htmlacademy.ru/htmlcss/40/user/2504671).
+Sedona — учебный проект, созданный для отработки навыков вёрстки и базового взаимодействия с HTML-формами.
+
+Задача проекта — сверстать сайт о туристическом городе Седона, отразив основные разделы (поиск жилья, каталог гостиниц и т.д.) в соответствии с макетами и техническим заданием.
+
 * Наставник: [Дмитрий Осадченко](https://htmlacademy.ru/profile/dimaos).
-* Сайт:[Личный проект «Седона»](https://olgagulyakevich.github.io/2504671-sedona-40/).
+* Курс «[HTML и CSS. Профессиональная вёрстка сайтов](https://htmlacademy.ru/intensive/htmlcss)»
+от [HTML Academy](https://htmlacademy.ru)
+
+
+## Ссылка на проект
+
+https://olgagulyakevich.github.io/2504671-sedona-40/
+
+
+## Технические особенности
+
+**Стандарты:** HTML5, CSS3 (прогрессивное улучшение, без адаптивной/резиновой вёрстки).
+**Сетка:** фиксированная, согласно макету.
+**Кроссбраузерность:** Chrome, Firefox, Safari (акцент на современные версии).
+**Шрифт:** «PT Sans» (из папки проекта или подключение через Google Fonts).
+**Макеты:** при расхождениях приоритет у стайлгайда и макетов.
+**Структура:** организована по правилам HTML Academy; контентная область центрируется, есть серый фон по бокам.
+
+
+## Благодарности
+
+- Команде [HTML Academy](https://htmlacademy.ru) за материалы и консультации.
+- Наставнику за поддержку и советы.
 
 ---
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
-
----
-
-### Памятка
-
-#### 1. Зарегистрируйтесь на Гитхабе
-
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
-
-#### 2. Создайте копию
-
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/2504671-sedona-40) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
-
-Получится вот так:
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037953-6a8a7384-7bae-11e7-83ac-59603b1d696c.jpg">
-
-#### 3. Скачайте репозиторий на свой компьютер
-
-Нажмите на зелёную кнопку «Code». Далее в выпавшем списке выберите пункт «Download ZIP». Выберите папку для скачивания на компьютер, например «Загрузки».
-
-#### 4. Начинайте обучение!
-
----
-
-<a href="https://htmlacademy.ru/intensive/htmlcss"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/htmlcss/logo-for-github-2.png"></a>
-
-Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Профессиональная вёрстка сайтов](https://htmlacademy.ru/intensive/htmlcss)» от [HTML Academy](https://htmlacademy.ru).
+#### Буду рада любым отзывам и Pull Request!
